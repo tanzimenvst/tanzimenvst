@@ -8,11 +8,11 @@
 <div align="left">
  <table>
    <tr>
-     <td>🔭</td>
+     <td>👔</td>
      <td>I’m currently working at <b>BETS Consulting Services Ltd.</b> as an <b>Assistant GIS Specialist</b> on <b>Mouza and Plot Based National Digital Land Zoning Project</b> by <b>The Ministry of Land</b>, Bangladesh.</td>
    </tr>
    <tr>
-     <td>🌱</td>
+     <td>📚</td>
      <td>I’m currently learning <b>Python</b> and <b>WebGIS</b>.</td>
    </tr>
  </table>
@@ -32,7 +32,7 @@
 <br/>
 <hr/>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <div align="center"> 
     <img src="https://skillicons.dev/icons?i=py,js,vscode,bootstrap,github,html,css"/><br>
 </div>
