@@ -5,7 +5,7 @@
 
 <br/>
 
-<div align="left">
+<div align="center">
  <table>
    <tr>
      <td>👔</td>
@@ -19,8 +19,8 @@
 </div>
 
 
-<h4 align="left">Reach me:</h4>
-<div align="left">
+<h4 align="center">Reach me:</h4>
+<div align="center">
     <a href="mailto:tanzimenvst@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
