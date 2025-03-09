@@ -9,11 +9,11 @@
  <table>
    <tr>
      <td>👔</td>
-     <td>I’m currently working at <b>BETS Consulting Services Ltd.</b> as an <b>Assistant GIS Specialist</b> on <b>Mouza and Plot Based National Digital Land Zoning Project</b> by <b>The Ministry of Land</b>, Bangladesh.</td>
+     <td>I’m currently working at <b>Spekter GmbH</b> as a <b>Junior GIS Developer</b>.</td>
    </tr>
    <tr>
      <td>📚</td>
-     <td>I’m currently learning <b>Python</b> and <b>WebGIS</b>.</td>
+     <td>I’m currently learning and deploying <b>Python</b> and <b>WebGIS</b>.</td>
    </tr>
  </table>
 </div>
