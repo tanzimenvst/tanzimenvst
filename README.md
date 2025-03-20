@@ -37,8 +37,7 @@
 
 <h3 align="center">Languages and Tools</h3>
 <div align="center"> 
-    <img src="https://skillicons.dev/icons?i=py,flask,github,anaconda,vscode,pycharm"/>
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,postgres,jquery"/><br>
+    <img src="https://skillicons.dev/icons?i=py,flask,anaconda,html,css,js,bootstrap,php,postgres,jquery,github,vscode,pycharm"/><br>
 </div>
 
 <br/>
