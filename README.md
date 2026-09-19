@@ -39,3 +39,8 @@
 <div align="center"> 
     <img src="https://skillicons.dev/icons?i=py,flask,anaconda,html,css,js,bootstrap,php,postgres,jquery,github,vscode,pycharm"/><br>
 </div>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&fontSize=0&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=0&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"
+/>
