@@ -44,3 +44,7 @@
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&fontSize=0&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=0&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"
 />
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/tanzimenvst/tanzimenvst/activity-graph-output/activity-graph.svg?radius=16&theme=github-light&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
