@@ -139,5 +139,5 @@
 <hr/>
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/tanzimenvst/tanzimenvst/activity-graph-output/activity-graph.svg?radius=16&theme=github-light&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/tanzimenvst/tanzimenvst/activity-graph-output/activity-graph.svg?radius=16&theme=github-light&area=true&order=5&custom_title=My%20Contribution%20Graph" height="300" alt="activity-graph graph"  />
 </div>
