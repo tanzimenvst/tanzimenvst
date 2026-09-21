@@ -136,10 +136,23 @@
   <img src="https://raw.githubusercontent.com/tanzimenvst/tanzimenvst/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div> -->
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tanzimenvst&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzimenvst&locale=en&layout=compact&langs_count=5&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Top languages" />
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=tanzimenvst&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5"
+    height="135"
+    alt="GitHub streak"
+  />
+  <img
+    src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=tanzimenvst&layout=compact&langs_count=5&theme=dracula"
+    height="135"
+    alt="Top languages"
+  />
+  <img
+    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=tanzimenvst&show_icons=true&theme=dracula&hide_border=false&border_radius=5"
+    height="135"
+    alt="GitHub stats"
+  />
+</p>
 
 <hr/>
 
