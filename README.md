@@ -137,10 +137,10 @@
 </div> -->
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=tanzimenvst&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5"
+   <img
+    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=tanzimenvst&show_icons=true&theme=dracula&hide_border=false&border_radius=5"
     height="135"
-    alt="GitHub streak"
+    alt="GitHub stats"
   />
   <img
     src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=tanzimenvst&layout=compact&langs_count=5&theme=dracula"
@@ -148,9 +148,9 @@
     alt="Top languages"
   />
   <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=tanzimenvst&show_icons=true&theme=dracula&hide_border=false&border_radius=5"
+    src="https://streak-stats.demolab.com?user=tanzimenvst&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5"
     height="135"
-    alt="GitHub stats"
+    alt="GitHub streak"
   />
 </p>
 
