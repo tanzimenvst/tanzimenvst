@@ -123,7 +123,7 @@
   src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&fontSize=0&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=0&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"
 />
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <!-- <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanzimenvst/tanzimenvst/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
@@ -154,7 +154,7 @@
     alt="Top languages"
   />
   <img
-    src="https://streak-stats.demolab.com?user=tanzimenvst&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5"
+    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=tanzimenvst&theme=dracula&hide_border=false&border_radius=5"
     height="135"
     alt="GitHub streak"
   />
