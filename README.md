@@ -142,29 +142,11 @@
   <img src="https://raw.githubusercontent.com/tanzimenvst/tanzimenvst/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div> -->
 
-<!-- <p align="center">
-   <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=tanzimenvst&show_icons=true&theme=dracula&hide_border=false&border_radius=5"
-    height="135"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=tanzimenvst&layout=compact&langs_count=5&theme=dracula"
-    height="135"
-    alt="Top languages"
-  />
-  <img
-    src="https://github-readme-stats.tuhidulhossain.com/api/streak?username=tanzimenvst&theme=dracula&hide_border=false&border_radius=5"
-    height="135"
-    alt="GitHub streak"
-  />
-</p> -->
-
 <table align="center">
   <tr>
     <td align="center" width="56%">
       <img
-        src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=tanzimenvst&theme=lavender&show_icons=true"
+        src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=tanzimenvst&theme=lavender&show_icons=true&include_all_commits=true"
         width="100%"
         alt="GitHub Stats"
       />
